@@ -1,0 +1,63 @@
+[
+        {
+            "id": "1",
+            "account": "abc@hotmail.com",
+            "pass": "234as5d2",
+            "tags": "KDP",
+            "assigned": "RES",
+            "read": "02/20/2024",
+            "method": "Imap1"
+        },
+        {
+            "id": "2",
+            "account": "def@gmail.com",
+            "pass": "1a2b3c4d",
+            "tags": "KDP",
+            "assigned": "RES",
+            "read": "02/20/2024",
+            "method": "Imap1"
+        },
+        {
+            "id": "3",
+            "account": "ghi@yahoo.com",
+            "pass": "password123",
+            "tags": "KDP",
+            "assigned": "RES",
+            "read": "02/20/2024",
+            "method": "Imap1"
+        },
+        {
+            "id": "4",
+            "account": "jkl@hotmail.com",
+            "pass": "qwerty",
+            "tags": "KDP",
+            "assigned": "RES",
+            "read": "02/20/2024",
+            "method": "Imap1"
+        },
+        {
+            "id": "5",
+            "account": "mno@gmail.com",
+            "pass": "abc123",
+            "tags": "KDP",
+            "assigned": "RES",
+            "read": "02/20/2024",
+            "method": "Imap1"
+        },
+        {
+            "id": "6",
+            "account": "pqr@yahoo.com",
+            "pass": "password456",
+            "tags": "KDP",
+            "assigned": "RES",
+            "read": "02/20/2024",
+            "method": "Imap1"
+        }
+    ]
+
+
+
+
+
+
+

@@ -1,0 +1,42 @@
+[
+        {
+            "id": "1",
+            "account": "abc@hotmail.com",
+            "subject": "Nhung just messaged you",
+            "date": "02/20/2024",
+            "read": "02/21/2024",
+            "method": "Imap1"
+        },
+        {
+            "id": "2",
+            "account": "def@gmail.com",
+            "subject": "John sent you a message",
+            "date": "02/20/2024",
+            "read": "02/21/2024",
+            "method": "Imap1"
+        },
+        {
+            "id": "3",
+            "account": "ghi@yahoo.com",
+            "subject": "Important announcement",
+            "date": "02/20/2024",
+            "read": "02/21/2024",
+            "method": "Imap1"
+        },
+        {
+            "id": "4",
+            "account": "jkl@hotmail.com",
+            "subject": "New product release",
+            "date": "02/20/2024",
+            "read": "02/21/2024",
+            "method": "Imap1"
+        },
+        {
+            "id": "5",
+            "account": "mno@gmail.com",
+            "subject": "Reminder: Meeting tomorrow",
+            "date": "02/20/2024",
+            "read": "02/21/2024",
+            "method": "Imap1"
+        }
+    ]
